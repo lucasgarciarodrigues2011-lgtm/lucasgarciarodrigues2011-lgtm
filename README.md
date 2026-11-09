@@ -1,8 +1,8 @@
 # Lucas Garcia Rodrigues Silva
 
-**IA aplicada: agentes de IA, automação e produtos digitais para comércio exterior e logística** · São Paulo, Brasil
+**IA aplicada e marketing: agentes de IA, automação, produtos digitais e neuromarketing para comércio exterior e logística** · São Paulo, Brasil
 
-Pós-graduando em Inteligência Artificial e Data Science para Líderes (Mackenzie), com MBA em Neuromarketing e Experiência do Consumidor (São Judas) e curso de Inteligência Artificial nos Negócios (São Judas). Mais de 100 repositórios no GitHub, a maioria privados por serem sistemas internos em produção.
+Especialista em Neuromarketing e Experiência do Consumidor (MBA, São Judas) e pós-graduando em Inteligência Artificial e Data Science para Líderes (Mackenzie) e curso de Inteligência Artificial nos Negócios (São Judas). Mais de 100 repositórios no GitHub, a maioria privados por serem sistemas internos em produção.
 
 Trabalho onde negócio, tecnologia e cliente se encontram: identifico gargalos da operação e do atendimento, construo a solução (agentes de IA, automações e apps internos) e cuido da adoção pelo time, da ideia à produção.
 
@@ -37,8 +37,9 @@ Trabalho onde negócio, tecnologia e cliente se encontram: identifico gargalos d
 - **Luvi** · interface web em português para uma assistente pessoal de IA que roda localmente (motor OpenJarvis): sem banco, sem login e sem nuvem.
 - [hill-racer-gt](https://github.com/lucasgarciarodrigues2011-lgtm/hill-racer-gt) · jogo de corrida no estilo Hill Climb feito em HTML.
 
-## Marketing e growth
+## Marketing, neuromarketing e growth
 
+- Comunicação e experiência do cliente baseadas em neuromarketing e comportamento do consumidor
 - Automação de conteúdo com n8n + IA generativa (Claude) para redes sociais e newsletter (beehiiv)
 - Landing pages, incluindo a de expansão de empresas brasileiras para os EUA, com formulário integrado a agente de IA
 - Mídia paga (Meta Ads e Google Ads), prospecção B2B (Sales Navigator), inbound e CRM (RD Station)
