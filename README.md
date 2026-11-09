@@ -1,6 +1,8 @@
 # Lucas Garcia Rodrigues Silva
 
-**Inovação, agentes de IA e produtos digitais aplicados a comércio exterior e logística** · São Paulo, Brasil
+**IA aplicada: agentes de IA, automação e produtos digitais para comércio exterior e logística** · São Paulo, Brasil
+
+Pós-graduando em Inteligência Artificial e Data Science para Líderes (Mackenzie), com MBA em Neuromarketing e Experiência do Consumidor (São Judas) e curso de Inteligência Artificial nos Negócios (São Judas). Mais de 100 repositórios no GitHub, a maioria privados por serem sistemas internos em produção.
 
 Trabalho onde negócio, tecnologia e cliente se encontram: identifico gargalos da operação e do atendimento, construo a solução (agentes de IA, automações e apps internos) e cuido da adoção pelo time, da ideia à produção.
 
@@ -51,6 +53,7 @@ n8n · Python · Java/Spring Boot · Spring AI · React · TypeScript · Supabas
 - Administração · Universidade São Judas Tadeu
 - MBA em Neuromarketing e Experiência do Consumidor · São Judas
 - Pós em Inteligência Artificial e Data Science para Líderes · Mackenzie (em andamento)
+- Inteligência Artificial nos Negócios · São Judas
 - Bootcamps DIO: Itaú (Java com IA), IBM (Confluent, dados em tempo real para agentes de IA) e Santander (Cibersegurança)
 - Claude Academy (Anthropic): Claude API, Claude Code, MCP e AI Fluency
 
